@@ -2,7 +2,7 @@ import React from "react";
 
 const InfoCard = ({card}) => {
   return (
-    {if (card.isGradient == t) {
+    {if (card.isGradient == tttt) {
       
     } else {
       
