@@ -20,7 +20,7 @@ const Service = ({ service }) => {
               available.
             </span>
           ) : (
-            <span className="text-red-500">There are no slot available.</span>
+            <span className="text-red-500">There are no slot available</span>
           )}
         </p>
         <div class="card-actions justify-center">
